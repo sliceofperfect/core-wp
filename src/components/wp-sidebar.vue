@@ -1,7 +1,6 @@
 <template lang="pug">
-ul
-  li
-    a(href="#") Sidebar Link.
+ul.collection
+  a.collection-item(href="#") Sidebar Link.
 </template>
 <style lang="stylus">
 </style>
