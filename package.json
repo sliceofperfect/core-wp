@@ -1,0 +1,20 @@
+{
+  "name": "sliceofperfectwpt",
+  "version": "0.0.1",
+  "description": "Official Wordpress Theme for SliceOfPerfect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-sliceofperfect:sliceofperfect/sliceofperfectwpt.git"
+  },
+  "keywords": [
+    "wordpress",
+    "theme",
+    "sliceofperfect"
+  ],
+  "author": "Oliver Wee",
+  "license": "ISC"
+}
